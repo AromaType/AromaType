@@ -1,1 +1,171 @@
+AromaType .gitignore
+Project: Telegram Mini App for personalized fragrance recommendations
 
+Environment and Secrets
+
+.env
+.env.local
+.env.production
+.env.development
+.key
+.pem
+.p12
+secrets.json
+secrets.yaml
+
+LLM API and AI
+
+.llm_cache/
+openai_cache/
+yandex_cache/
+.log
+
+Databases (real client data)
+
+.db
+.sqlite
+.sqlite3
+perfumes_real.json
+fragrances_real.json
+aromatype.db
+user_profiles.db
+survey_results.db
+database/
+.csv
+
+Backend / Python
+
+__pycache__/
+.py[cod]
+$py.class
+.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+pyrightconfig.json
+.egg-info/
+dist/
+build/
+.egg
+
+Frontend / Telegram Mini App (React/Vue)
+
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnpm-debug.log
+dist/
+dist-ssr/
+.local
+.DS_Store
+
+Build outputs
+
+/build/
+/out/
+/.next/
+/static/
+
+IDE and Editor Files
+
+.vscode/
+.idea/
+.swp
+.swo
+~
+.project
+.classpath
+.settings/
+.sublime-
+.iml
+
+OS Generated Files
+
+.DS_Store
+.DS_Store?
+._
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+Logs and Temporary Files
+
+.log
+logs/
+.tmp
+.temp
+.cache/
+tmp/
+temp/
+
+Reports (generated, but keep structure)
+
+reports/*.pdf
+reports/*.docx
+reports/*.html
+!reports/*.md
+
+User Data and Privacy
+
+user_profiles/
+survey_results/
+personal_data/
+.pkl
+.pickle
+profiles.json
+
+Test Data (real or sensitive)
+
+test_data/real/
+.test.db
+.secret.json
+
+Deployment and Package Manager Files
+
+.lock
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+requirements.txt
+poetry.lock
+Pipfile.lock
+!requirements-dev.txt
+
+Docker and Containers
+
+.pid
+docker-compose.override.yml
+.dockerignore
+.dockerignore
+
+Backup Files
+
+.bak
+.backup
+.old
+.orig
+
+Mock or Dummy Data (keep samples, ignore real)
+
+src/data/*_real.json
+src/data/*_production.json
+!src/data/sample_*.json
+
+CI/CD Local Overrides
+
+.github/local/
+.gitlab/local/
