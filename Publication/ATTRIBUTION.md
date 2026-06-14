@@ -60,5 +60,3 @@ All source code written by the team (survey logic, profile logic, LLM integratio
 Last updated: June 14, 2026
 For attribution inquiries: Neurolife
 
-Last updated: June 14, 2026
-For attribution inquiries: team@aromatype.ru
