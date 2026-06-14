@@ -1,0 +1,20 @@
+{
+  "fragrances": [
+    {
+      "id": 1,
+      "name": "Ocean Breeze",
+      "style": ["fresh", "aquatic"],
+      "sillage": "light",
+      "season": "summer",
+      "description": "Свежий морской аромат для повседневности"
+    },
+    {
+      "id": 2,
+      "name": "Midnight Woods",
+      "style": ["woody", "warm"],
+      "sillage": "strong",
+      "season": "winter",
+      "description": "Теплый древесный аромат для вечера"
+    }
+  ]
+}
