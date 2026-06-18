@@ -1,6 +1,6 @@
 AromaType — personalised fragrance recommendations through style, situations and feelings
 
-[![Lychee Link Checker](https://github.com/your-org/aromatype/actions/workflows/lychee.yml/badge.svg)](https://github.com/your-org/aromatype/actions/workflows/lychee.yml)
+[![Lychee Link Checker](https://github.com/AromaType/AromaType/actions/workflows/links.yml/badge.svg)]([https://github.com/your-org/aromatype/actions/workflows/lychee.yml](https://github.com/AromaType/AromaType/actions/workflows/links.yml))
 
 AromaType is a service (Telegram Mini App or web version) for people who want to choose a good fragrance for themselves but do not want to deal with notes, families and perfume terminology.
 
